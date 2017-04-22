@@ -1,4 +1,4 @@
-node_modules
-.idea
-build/css/
-build/js/
+node_modules/
+.idea/
+build/css/*
+build/js/*
