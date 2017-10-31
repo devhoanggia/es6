@@ -1,4 +1,4 @@
-### Learn ES6
+# Learning ES6
 Build environment for ES6
 
 ### Content
